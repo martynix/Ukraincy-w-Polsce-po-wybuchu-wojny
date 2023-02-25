@@ -1,4 +1,5 @@
-setwd("C:/Users/marty/Desktop/Ukraincy-w-Polsce-po-wybuchu-wojny1")
+setwd("C:/Users/marty/Desktop/Ukraincy-w-Polsce-po-wybuchu-wojny")
+
 list.files()
 library(readxl)
 
